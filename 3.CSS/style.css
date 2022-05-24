@@ -1,0 +1,105 @@
+body {
+     margin: 0px;
+     padding: 0px;
+ }
+
+ .container {
+     margin-top: 50px;
+    width: 1000px;
+    /* margin-left: auto;
+    margin-right: auto; */
+    margin: 50px auto 0;
+}
+
+
+.left-bar{
+    width: 200px;
+    float: left;
+}
+
+.content {
+    width: 800px;
+    float: left;
+}
+
+.card {
+    width: 20%;
+    float: left;
+    padding: 5%;
+    margin-right: 3%;
+    background-color: rgb(166, 76, 218);
+    border-radius: 10px;
+    padding
+}
+ .clear {
+     clear: both;
+ }
+ .box {
+    width: 300px;
+     height: 300px;
+     padding: 10px;
+     margin: 10px;
+     float: left  ; 
+ }
+
+ /* margin-top, margin-bottom, margin-left, margin-right şeklinde istediğin gibi ayarlayabilirsin */
+ 
+ .bg-red {
+     background-color: red;
+ }
+ 
+ .bg-green {
+     background-color: green;
+ }
+ 
+.bg-yellow {
+    background-color: yellow;
+}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ /* ************** Layout ***************
+
+/* class için .text-red {} */
+/* id için #id-bilgisi {} */
+/*
+h1, h2, h3, h4, h5, h6 {
+    color: #6d3030
+}
+
+h1 {
+    font-size: 30px;
+}
+
+p {font-size: 20px;}
+
+#first-article {
+    font-size: 40px;
+}
+
+.text-red {
+    color:red;
+}
+
+.fs-14 {
+    font-size: 14px;
+}
+
+.fs-20 {
+ font-size: 20px;
+}
+
+.fs-30 {
+    font-size: 30px;
+   } */
