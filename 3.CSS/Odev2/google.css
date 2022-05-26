@@ -1,0 +1,43 @@
+body {
+
+     background-color: rgb(255, 255, 255);
+     font-size: small;
+     text-align: center;
+}
+
+.box1 {
+
+    border: 800px;
+    margin-right: 60px;
+    margin-left: 60px;
+    margin-bottom: 2px;
+    background-color: rgb(247, 241, 241);
+
+}
+
+.container {
+    display: flex;
+    border: 800px;
+    margin-right: 60px;
+    margin-left: 60px;
+    text-align: center;
+}
+
+.card1 {
+    background-color: rgb(126, 229, 218) ;
+    width: 37%;
+    margin-right: 2px;
+}           
+
+.card2 {
+    background-color:rgb(112, 204, 194);
+    width: 26%;
+
+}
+
+.card3 {
+    background-color: rgb(28, 182, 166) ;
+    width: 37%;
+    margin-left: 2px;
+    
+}       
